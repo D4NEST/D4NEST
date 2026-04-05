@@ -40,7 +40,7 @@ Lidero proyectos desde la concepción artística hasta la implementación técni
 
 ## 🎓 Educación destacada
 
-- **Técnico Superior en Informática** – Iutirla (cursando, finaliza mayo 2026)  
+- **Técnico Superior en Informática** – Iutirla 
 - **Producción Musical** – Tecson (2016‑2019)  
 - **Oratoria y Locución** – Formación complementaria  
 - **Metodologías Ágiles**   
