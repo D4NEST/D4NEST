@@ -2,8 +2,8 @@ name: "Actualizar Estadísticas del README"
 
 on:
   schedule:
-    - cron: "0 3 * * *"   # Actualiza todos los días a las 3 AM
-  workflow_dispatch:       # Permite ejecutarlo manualmente
+    - cron: "0 3 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
