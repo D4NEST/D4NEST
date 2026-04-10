@@ -49,9 +49,9 @@
 
 > *Edita estos enlaces con tus repositorios reales*
 
-- [**Dashboard con Flask y Pandas**](https://github.com/D4NEST/dashboard-flask) – Análisis de datos y visualización interactiva.
-- [**Landing page creativa**](https://github.com/D4NEST/landing-creative) – HTML/CSS/JS con diseño responsive y optimización SEO.
-- [**API REST de música**](https://github.com/D4NEST/api-music) – Backend con Flask y PostgreSQL para gestión de artistas y álbumes.
+- [**meta-modelador de bases de datoss**](https://github.com/D4NEST/portafolionest) – Sistema de gestion empresarial Adaptable por Rubros .
+- [**Modulo De Inventario  flask **](https://github.com/D4NEST/inventario-soluciones-logicas) – HTML/CSS/JS con diseño responsive y optimización y test py.
+- [**Mvc Php "Erp Clinica"**](https://github.com/D4NEST/api-music) – Backend mySql  (Xampp) para gestiónar citas , Consultas, Tareas pendientes, generar Backups, almacenar info cliente
 
 ---
 
@@ -81,14 +81,15 @@
 
 ---
 
+
+
 ## 📈 GitHub Analytics
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=D4NEST&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://raw.githubusercontent.com/D4NEST/D4NEST/stats/profile/stats.svg?cache=no)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=D4NEST&layout=compact&theme=radical)
+![Lenguajes más usados](https://raw.githubusercontent.com/D4NEST/D4NEST/stats/profile/top-langs.svg?cache=no)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=D4NEST&theme=radical)](https://git.io/streak-stats)
-
 ---
 
 > *“No solo escribo código, construyo experiencias. Arte que funciona, código que emociona.”*
