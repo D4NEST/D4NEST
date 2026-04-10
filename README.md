@@ -9,7 +9,7 @@
 🎨 **De la idea al código**: lidero proyectos desde la dirección creativa hasta el backend, integrando arte, datos y tecnología.  
 🤖 Apasionado por **optimizar flujos de trabajo con IA** y metodologías ágiles.  
 🎧 Productor musical y editor multimedia en mis ratos libres.  
-🌎 **Ubicación**: Venezuela 🇻🇪 (viajo frecuentemente a Argentina 🇦🇷 mitad de año y luego regreso).
+🌎 **Ubicación**: Venezuela 🇻🇪 -  Argentina 🇦🇷   (intermitente)
 
 ---
 
