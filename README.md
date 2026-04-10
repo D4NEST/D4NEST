@@ -1,9 +1,15 @@
-# 👋 Hola, soy Néstor Patiño (D4NEST)
+# 👋 Hola, soy Néstor Patiño – `D4NEST`
 
 ### Director Creativo & Desarrollador Full‑Stack
 
-Profesional híbrido con **8+ años** en dirección creativa y producción, combinado con desarrollo técnico full‑stack.  
-Lidero proyectos desde la concepción artística hasta la implementación técnica, integrando soluciones data‑driven y metodologías ágiles.
+---
+
+## ✨ Sobre mí
+
+🎨 **De la idea al código**: lidero proyectos desde la dirección creativa hasta el backend, integrando arte, datos y tecnología.  
+🤖 Apasionado por **optimizar flujos de trabajo con IA** y metodologías ágiles.  
+🎧 Productor musical y editor multimedia en mis ratos libres.  
+🌎 **Ubicación**: Venezuela 🇻🇪 (viajo frecuentemente a Argentina 🇦🇷 mitad de año y luego regreso).
 
 ---
 
@@ -19,22 +25,33 @@ Lidero proyectos desde la concepción artística hasta la implementación técni
 
 ## 🛠️ Stack tecnológico
 
-### Desarrollo
+### 💻 Desarrollo backend y frontend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🗄️ Bases de datos y herramientas
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### Diseño, audio y video
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+### 🎨 Diseño, audio y video
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white)
-![Pro Tools](https://img.shields.io/badge/Pro_Tools-7ACB10?style=for-the-badge&logo=protools&logoColor=white)
-![FL Studio](https://img.shields.io/badge/FL_Studio-F8B800?style=for-the-badge&logo=image%2Fpng&logoColor=white)
 ![Ableton Live](https://img.shields.io/badge/Ableton_Live-000000?style=for-the-badge&logo=abletonlive&logoColor=white)
+
+---
+
+## 🚀 Proyectos destacados
+
+> *Edita estos enlaces con tus repositorios reales*
+
+- [**Dashboard con Flask y Pandas**](https://github.com/D4NEST/dashboard-flask) – Análisis de datos y visualización interactiva.
+- [**Landing page creativa**](https://github.com/D4NEST/landing-creative) – HTML/CSS/JS con diseño responsive y optimización SEO.
+- [**API REST de música**](https://github.com/D4NEST/api-music) – Backend con Flask y PostgreSQL para gestión de artistas y álbumes.
 
 ---
 
@@ -43,23 +60,24 @@ Lidero proyectos desde la concepción artística hasta la implementación técni
 - **Técnico Superior en Informática** – Iutirla 
 - **Producción Musical** – Tecson (2016‑2019)  
 - **Oratoria y Locución** – Formación complementaria  
-- **Metodologías Ágiles**   
+- **Metodologías Ágiles** (Scrum, Kanban)
 
 ---
 
 ## 🌎 Idiomas
 
 - **Español** – nativo  
-- **Inglés** – básico 
+- **Inglés** – básico (en aprendizaje activo)
 
 ---
 
 ## 📫 Contacto
 
-- 📧 danestsantos@gmail.com  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danestsantos@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/danestmusic)
+
 - 📞 (+58) 0412-231-8903  
-- 🌍 Venezuela  
-- 🎵 [@danestmusic](https://instagram.com/danestmusic) (música y producción)
+- 🌍 Venezuela / Argentina (viajero frecuente)
 
 ---
 
@@ -67,6 +85,10 @@ Lidero proyectos desde la concepción artística hasta la implementación técni
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=D4NEST&show_icons=true&theme=radical)
 
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=D4NEST&layout=compact&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=D4NEST&theme=radical)](https://git.io/streak-stats)
+
 ---
 
-*“De la dirección creativa a la implementación técnica, integrando arte y código.”*
+> *“No solo escribo código, construyo experiencias. Arte que funciona, código que emociona.”*
