@@ -85,11 +85,12 @@
 
 ## 📈 GitHub Analytics
 
-![Estadísticas de GitHub](https://raw.githubusercontent.com/D4NEST/D4NEST/stats/profile/stats.svg?cache=no)
+## 📈 GitHub Analytics
 
-![Lenguajes más usados](https://raw.githubusercontent.com/D4NEST/D4NEST/stats/profile/top-langs.svg?cache=no)
+![Estadísticas de GitHub](profile/stats.svg)
+
+![Lenguajes más usados](profile/top-langs.svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=D4NEST&theme=radical)](https://git.io/streak-stats)
----
 
 > *“No solo escribo código, construyo experiencias. Arte que funciona, código que emociona.”*
