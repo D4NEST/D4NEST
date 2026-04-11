@@ -47,7 +47,7 @@
 
 ## 🚀 Proyectos destacados
 
-> *Edita estos enlaces con tus repositorios reales*
+
 
 - [**meta-modelador de bases de datoss**](https://github.com/D4NEST/portafolionest) – Sistema de gestion empresarial Adaptable por Rubros .
 - [**Modulo De Inventario  flask **](https://github.com/D4NEST/inventario-soluciones-logicas) – HTML/CSS/JS con diseño responsive y optimización y test py.
@@ -85,4 +85,4 @@
 
 
 
-> *“No solo escribo código, construyo experiencias. Arte que funciona, código que emociona.”*
+> *“No solo escribo código, construyo experiencias.”*
