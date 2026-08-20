@@ -1,4 +1,4 @@
-# 👋 Hola, soy Néstor Patiño – `D4NEST`
+#  Hola, soy Néstor Patiño – `D4NEST`
 
 ### Director Creativo & Full-Stack Developer | Data Architect | QA Engineer
 
